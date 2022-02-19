@@ -1,0 +1,9 @@
+﻿Split Criteria (Entropy or Gini),Minimum Sample Split,Minimum Sample Leaf,Maximum Depth,Accuracy,Recall,Precision,F1 Score
+Entropy,3,9,18,,,,
+Entropy,8,5,5,,,,
+Entropy,5,11,30,,,,
+Entropy,7,14,6,,,,
+Gini,12,3,4,,,,
+Gini,2,6,20,,,,
+Gini,9,9,6,,,,
+Gini,15,13,40,,,,
